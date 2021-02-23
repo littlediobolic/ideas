@@ -20,5 +20,8 @@ These are my general ideas for things I want to do either with programming or so
 - Open Source "Mario Maker"
 	- Obvioulsy way out of my league but a man can dream
 - Some form of boids, more than likely 2D and stupid simple
+- Auto Texting to text my girlfriend good morning
+        - Will pick from random good morning messages
+        - Doesnt text if I have already messaged her this morning
 
 - Incremental Game
